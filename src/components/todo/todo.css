@@ -1,0 +1,23 @@
+.input_class {
+    width: 200px;
+    margin: 50px 10px 10px 10px;
+    padding: 5px;
+}
+.btn_class {
+    width: 30px;
+    height: 30px;
+    background-color: #6df652;
+    border: none;
+}
+
+.btn_task_class {
+    background-color: #f83c5c;
+}
+
+.div_class {
+    display: inline-block;
+    margin: 10px;
+    border: 1px solid #6df652;
+    width: 200px;
+    padding: 5px;
+}
